@@ -1,7 +1,7 @@
 # DEPRECATED
 This repository is no longer activiely maintained.
 
-If you are looking for similar functionality but for more uptodate versions of Python, we recommend you take a look at https://github.com/vklochan/python-logstash as an alternative.
+If you are looking for similar functionality but for more uptodate versions of Python, we recommend you take a look at https://github.com/vklochan/python-logstash or https://github.com/eht16/python-logstash-async as an alternative.
 
 # threaded-logstasher
 This library is provided to allow standard python logging to send log data
